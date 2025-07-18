@@ -1,10 +1,10 @@
 # Hrithik Gavankar
 
-<a href="https://profile-summary-for-github.com/user/hrithik16032000">
-    <p><img src="https://komarev.com/ghpvc/?username=hrithik16032000&color=red"/></p>
+<a href="https://profile-summary-for-github.com/user/Hrithik-Gavankar">
+    <p><img src="https://komarev.com/ghpvc/?username=Hrithik-Gavankar&color=red"/></p>
 </a>
 
-<h4 align="center">Hi there! 👋 I'm a Software Engineer 👨‍💼 from Mumbai, Maharashtra, India who has good knowledge and also hands-on experience in Full Stack Web Development with React, Nodejs & MongoDB I have successfully deployed many Web Applications with Reactjs. In my free time, you'll find me listening music, working out at the gym, studying about health and nutrition. Below are the profiles related to  my Social Contact Links
+<h4 align="center">Hi there! 👋 I'm a Software Engineer at Red Hat | Building Scalable Web Platforms | Generative UI & AI-Driven Experience Innovator | OSS Maintainer. In my free time, you'll find me listening music, working out at the gym, studying about health and nutrition. Below are the profiles related to  my Social Contact Links
 </h4>
 
 <!--
@@ -198,8 +198,8 @@ Here are some ideas to get you started:
 
 --- -->
 
-[![Hrithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrithik16032000&count_private=true&show_icons=true)](https://profile-summary-for-github.com/user/hrithik16032000)
+[![Hrithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrithik-Gavankar&count_private=true&show_icons=true)](https://profile-summary-for-github.com/user/Hrithik-Gavankar)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik16032000&langs_count=8)](https://profile-summary-for-github.com/user/hrithik16032000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik-Gavankar&langs_count=8)](https://profile-summary-for-github.com/user/Hrithik-Gavankar)
 
-[![Hrithik's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hrithik16032000)](https://profile-summary-for-github.com/user/hrithik16032000)
+[![Hrithik's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Hrithik-Gavankar)](https://profile-summary-for-github.com/user/Hrithik-Gavankar)
