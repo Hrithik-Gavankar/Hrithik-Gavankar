@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=Hrithik-Gavankar&color=red"/>
 </a>
 
-**Software Engineer @ Red Hat** | Building Scalable Web Platforms | AI Agents & Generative UI | OSS Maintainer
+**Software Engineer @ Red Hat (Ansible)** | Building Web Systems, DevTools, AI Agents & MCP Systems | Open Source
 
 I break prod on Fridays, fix it by Monday, and pretend it never happened. When I'm not shipping code, I'm shipping PRs to my body — gym, nutrition science, and the occasional protein shake debugging session.
 
