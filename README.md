@@ -31,6 +31,7 @@ I break prod on Fridays, fix it by Monday, and pretend it never happened. When I
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-000000?style=for-the-badge)
 
 #### Frameworks & Libraries
 
@@ -51,6 +52,7 @@ I break prod on Fridays, fix it by Monday, and pretend it never happened. When I
 #### DevOps & Cloud
 
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -76,6 +78,8 @@ I break prod on Fridays, fix it by Monday, and pretend it never happened. When I
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [brainstack](https://github.com/Hrithik-Gavankar/brainstack) | Persistent context for AI coding assistants — `engineer-brain` & Team Brain | TypeScript · Python · MCP · Supabase |
+| [lgtm-bot](https://github.com/Hrithik-Gavankar/lgtm-bot) | AI PR review bot — scores GitHub diffs against Jira acceptance criteria | Python · Claude/GPT · Ollama · Jira · GitHub |
 | [fitness-agent](https://github.com/Hrithik-Gavankar/fitness-agent) | AI fitness coach with personalized plans | Google ADK · Gemini · Streamlit · Supabase |
 
 ---
