@@ -4,9 +4,9 @@
   <img src="assets/hacker.gif" width="480" alt="Hacker hacking" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hrithik-Gavankar&color=red&label=Profile%20views" alt="Profile views" />
-</p>
+<a href="https://profile-summary-for-github.com/user/Hrithik-Gavankar">
+    <img src="https://komarev.com/ghpvc/?username=Hrithik-Gavankar&color=red"/>
+</a>
 
 **Software Engineer @ Red Hat (Ansible)** | Building Web Systems, DevTools, AI Agents & MCP Systems | Open Source
 
