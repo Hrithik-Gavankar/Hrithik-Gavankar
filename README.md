@@ -1,7 +1,7 @@
 # Hey, I'm Hrithik 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="480" alt="Hacker hacking" />
+  <img src="assets/hacker.gif" width="480" alt="Hacker hacking" />
 </p>
 
 <p align="center">
