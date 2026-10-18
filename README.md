@@ -1,8 +1,12 @@
 # Hey, I'm Hrithik 👋
 
-<a href="https://profile-summary-for-github.com/user/Hrithik-Gavankar">
-    <img src="https://komarev.com/ghpvc/?username=Hrithik-Gavankar&color=red"/>
-</a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="480" alt="Coding in the matrix" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hrithik-Gavankar&color=red&label=Profile%20views" alt="Profile views" />
+</p>
 
 **Software Engineer @ Red Hat (Ansible)** | Building Web Systems, DevTools, AI Agents & MCP Systems | Open Source
 
