@@ -99,7 +99,7 @@ I break prod on Fridays, fix it by Monday, and pretend it never happened. When I
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithik-Gavankar&theme=tokyonight" />
+    <img src="https://streak-stats.demolab.com/?user=Hrithik-Gavankar&theme=tokyonight" />
 </p>
 
 ---
@@ -111,7 +111,6 @@ I break prod on Fridays, fix it by Monday, and pretend it never happened. When I
     <a href="https://www.linkedin.com/in/hrithik-gavankar-b0a44b14a/"><img height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/hrithik1603"><img height="25" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
     <a href="https://t.me/@hrithik16"><img height="25" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://wa.me/9833179478"><img height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 <p align="center">
